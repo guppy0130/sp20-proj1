@@ -239,7 +239,7 @@ You may need to reference SQL documentation for concepts not covered in class: [
     *Just for fun*: For those of you who are baseball buffs, variants of the above queries can be used to find other more detailed SaberMetrics, like [Runs Created](https://en.wikipedia.org/wiki/Runs_created) or [Value Over Replacement Player](https://en.wikipedia.org/wiki/Value_over_replacement_player). Wikipedia has a nice page on [baseball statistics](https://en.wikipedia.org/wiki/Baseball_statistics); most of these can be computed fairly directly in SQL.
 
     *Also just for fun*: SF Giants VP of Baseball Operations, [Yeshayah Goldfarb](https://www.mlb.com/giants/team/front-office/yeshayah-goldfarb), suggested the following:
-    > Using the Lahman database as your guide, make an argument for when MLBs “Steriod Era” started and ended. There are a number of different ways to explore this question using the data.
+    > Using the Lahman database as your guide, make an argument for when MLBs “Steroid Era” started and ended. There are a number of different ways to explore this question using the data.
 
     (Please do not include your "just for fun" answers in your solution file! They will break the autograder.)
 
